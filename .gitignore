@@ -1,0 +1,37 @@
+# System files
+.DS_Store
+
+# IDE configurations
+.vscode/
+.idea/
+
+# macOS system files
+.Trash/
+
+# Node modules
+node_modules/
+
+# Log files
+*.log
+
+# Temporary files
+*.tmp
+*.swp
+
+# Other common directories
+/Applications/
+/Desktop/
+/Documents/
+/Downloads/
+/Library/
+/Music/
+/Movies/
+/Pictures/
+/Public/
+
+# Git directories
+.git/
+
+# Ignore everything in the parent directories
+../*/
+!/windsurf-project/3d-product-configurator-wp/
